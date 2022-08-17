@@ -42,8 +42,22 @@ No intallation required
 ```python
 from tkinter import *
 from functools import partial
+```
 
+## Spotipy
 
+Enables spotify integrations.
 
+## Installation
+
+```bash
+pip install spotipy
+```
+
+## Usage
+
+```python
+import spotipy
+```
 
 
