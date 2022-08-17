@@ -16,9 +16,7 @@ pip install pyaudio
 
 ```python
 import speech_recognition as sr
-
-
-
+```
 
 # tkinter
 
@@ -34,4 +32,8 @@ No intallation required
 ```python
 from tkinter import *
 from functools import partial
+
+
+
+
 
